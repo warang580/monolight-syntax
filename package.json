@@ -1,0 +1,16 @@
+{
+  "name": "monolight-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A light and contrasted theme using Material colors",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material"
+  ],
+  "repository": "https://github.com/atom/monolight-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    example: "values",
+    for: "json",
+    sub: {
+        foo: true,
+        bar: false,
+    }
+}
